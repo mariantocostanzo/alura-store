@@ -1,5 +1,5 @@
 # alura-store
-Este proyecto tiene como objetivo asistir a Juan en la decisión estratégica de cerrar una de sus cuatro tiendas, con el fin de liberar recursos e invertir en un nuevo emprendimiento.
+Este proyecto tiene como objetivo asistir al señor Juan en la decisión estratégica de cerrar una de sus cuatro tiendas, con el fin de liberar recursos e invertir en un nuevo emprendimiento.
 
 A través del análisis de datos de ventas, calificaciones de clientes y costos operativos, se busca identificar cuál de las tiendas presenta el menor desempeño.
 Los aspectos evaluados incluyen:
