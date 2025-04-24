@@ -30,7 +30,7 @@ El análisis fue realizado en **Python**, utilizando herramientas comunes en cie
 ## 📁 Estructura del proyecto
 
 - `alurastorelatam.py`: Código fuente que realiza el análisis completo.
-- `Informe Final 
+- Informe Final 
 
 ## ▶️ Cómo ejecutarlo
 
